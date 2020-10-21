@@ -49,8 +49,8 @@ If the bibliography file contains a citation key `AuthorYear`, then the citation
 To use auto completion, typing `@A<C-X-O>` will bring up a completion list of all citation keys starting with `A`.
 You then select the correct key from that list.
 
-The default citation code (`[@AuthorYear]`) results in a parenthetical citation, equivalent to `\citet`.
-The code `@AuthorYear` is equivalent to `\citep`.
+The default citation code (`[@AuthorYear]`) results in a parenthetical citation, equivalent to `\citep`.
+The code `@AuthorYear` is equivalent to `\citet`.
 To the best of my knowledge, there is no equivalent to `\citeyearpar`.
 However, you may use that command "manually", as you may enter any valid `LaTeX` in your markdown file.
 
